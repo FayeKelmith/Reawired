@@ -23,5 +23,5 @@ This a description of how much progress has been made
 2. Obtaining 80% success with model
 3. Formatting model output for consumption by softare
 
-##Next to Milestone
+## Next to Milestone
 1. Build Reception Software using Django
